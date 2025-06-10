@@ -27,6 +27,9 @@ A fully responsive, modern eCommerce website built with **React.js** as part of 
 
 ---
 
+## Screenshot
+
+
 ## 📁 Folder Structure
 
 ```bash
@@ -39,3 +42,14 @@ A fully responsive, modern eCommerce website built with **React.js** as part of 
 │   ├── index.js      # ReactDOM render
 ├── package.json
 └── README.md
+```
+
+## Installation & Setup
+To run the project locally:
+```bash
+git clone https://github.com/your-username/react-ecommerce.git
+cd react-ecommerce
+npm install
+npm start
+```
+#
