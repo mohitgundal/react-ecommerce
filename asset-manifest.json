@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-ecommerce/static/css/main.7b7d134e.css",
-    "main.js": "/react-ecommerce/static/js/main.653be156.js",
+    "main.js": "/react-ecommerce/static/js/main.72aeca9a.js",
     "static/js/453.67366af4.chunk.js": "/react-ecommerce/static/js/453.67366af4.chunk.js",
     "static/media/banner_kids.png": "/react-ecommerce/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/react-ecommerce/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -24,6 +24,7 @@
     "static/media/product_30.png": "/react-ecommerce/static/media/product_30.e41416579b3561557c59.png",
     "static/media/product_11.png": "/react-ecommerce/static/media/product_11.36f4d4e3bf3d92f3a6ff.png",
     "static/media/product_14.png": "/react-ecommerce/static/media/product_14.dd14ef3d3a08a30703b3.png",
+    "static/media/exclusive_image.png": "/react-ecommerce/static/media/exclusive_image.c5e376f47e5b768d49f3.png",
     "static/media/product_22.png": "/react-ecommerce/static/media/product_22.b871a89d4063905a3a9b.png",
     "static/media/product_9.png": "/react-ecommerce/static/media/product_9.c7205ccd2f2bb59de1e6.png",
     "static/media/product_21.png": "/react-ecommerce/static/media/product_21.bbc5e767bec38bf200fd.png",
@@ -34,7 +35,6 @@
     "static/media/product_5.png": "/react-ecommerce/static/media/product_5.8d6830d6622d270c66a0.png",
     "static/media/product_33.png": "/react-ecommerce/static/media/product_33.9ab6fb22cb06820bd692.png",
     "static/media/product_8.png": "/react-ecommerce/static/media/product_8.0c669193e09b74038de0.png",
-    "static/media/exclusive_image.png": "/react-ecommerce/static/media/exclusive_image.e8118f2149d9cb916980.png",
     "static/media/product_3.png": "/react-ecommerce/static/media/product_3.8d2b2df5bc1d99bae337.png",
     "static/media/product_4.png": "/react-ecommerce/static/media/product_4.2d506bc496eddcc115b5.png",
     "static/media/product_2.png": "/react-ecommerce/static/media/product_2.72913a4cf25100491c51.png",
@@ -47,11 +47,11 @@
     "static/media/hand_icon.png": "/react-ecommerce/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/react-ecommerce/index.html",
     "main.7b7d134e.css.map": "/react-ecommerce/static/css/main.7b7d134e.css.map",
-    "main.653be156.js.map": "/react-ecommerce/static/js/main.653be156.js.map",
+    "main.72aeca9a.js.map": "/react-ecommerce/static/js/main.72aeca9a.js.map",
     "453.67366af4.chunk.js.map": "/react-ecommerce/static/js/453.67366af4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b7d134e.css",
-    "static/js/main.653be156.js"
+    "static/js/main.72aeca9a.js"
   ]
 }
