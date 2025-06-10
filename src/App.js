@@ -16,7 +16,7 @@ import kid_banner from './Components/Assets/banner_kids.png'
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/react-ecommerce">
         <Navbar />
         <Routes>
           <Route path='/' element={<Shop/>}/>
