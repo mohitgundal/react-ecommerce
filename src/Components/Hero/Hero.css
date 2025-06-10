@@ -89,7 +89,7 @@
 
 @media(max-width: 1024px){
     .hero{
-        height: 80vh;
+        height: 70vh;
     }
     .hero-left{
         padding-left: 80px;
