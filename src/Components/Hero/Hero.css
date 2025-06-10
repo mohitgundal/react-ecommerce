@@ -88,6 +88,9 @@
 }
 
 @media(max-width: 1024px){
+    .hero{
+        height: 80vh;
+    }
     .hero-left{
         padding-left: 80px;
     }
@@ -111,6 +114,9 @@
 }
 
 @media(max-width: 800px){
+    .hero{
+        height: 70vh;
+    }
     .hero-left{
         padding-left: 30px;
     }
@@ -135,6 +141,8 @@
 
 @media(max-width: 500px){
     .hero{
+        height: 70vh;
+        width: 100%;
         flex-direction: column;
     }
     .hero-right{

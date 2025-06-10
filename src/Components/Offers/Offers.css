@@ -17,19 +17,19 @@
 
 .offers-left h1{
     color: #171717;
-    font-size: 90px;
+    font-size: 30px;
     font-weight: 600;
 }
 
 .offers-left h2{
     color: #171717;
-    font-size: 70px;
+    font-size: 10px;
     font-weight: 600;
 }
 
 .offers-left p{
     color: #171717;
-    font-size: 22px;
+    font-size: 10px;
     font-weight: 600;
 }
 
@@ -40,7 +40,7 @@
     background: #ff4141;
     border: none;
     color: white;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
     margin-top: 30px;
     cursor: pointer;
@@ -142,6 +142,12 @@
         height: 25px;
         font-size: 10px;
         margin-top: 12px;
+    }
+}
+
+@media(max-width: 400px){
+    .offers{
+        margin: 100px auto;
     }
 }
 
