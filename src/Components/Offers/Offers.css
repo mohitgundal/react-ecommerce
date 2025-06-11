@@ -17,19 +17,19 @@
 
 .offers-left h1{
     color: #171717;
-    font-size: 30px;
+    font-size: 80px;
     font-weight: 600;
 }
 
 .offers-left h2{
     color: #171717;
-    font-size: 10px;
+    font-size: 40px;
     font-weight: 600;
 }
 
 .offers-left p{
     color: #171717;
-    font-size: 10px;
+    font-size: 20px;
     font-weight: 600;
 }
 
@@ -129,18 +129,23 @@
         margin-bottom: 50px;
     }
     .offers-left h1{
-        font-size: 16px;
+        font-size: 18px;
     }
+    .offers-left h2{
+    color: #171717;
+    font-size: 12px;
+    font-weight: 600;
+}
     .offers-left p{
-        font-size: 10px;
+        font-size: 8px;
     }
     .offers-right img{
         width: 120px;
     }
     .offers-left button{
-        width: 120px;
+        width: 80px;
         height: 25px;
-        font-size: 10px;
+        font-size: 8px;
         margin-top: 12px;
     }
 }

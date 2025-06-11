@@ -63,6 +63,9 @@
 }
 
 @media(max-width: 1280px){
+    .hero{
+        height: 90vh;
+    }
     .hero-left{
         padding-left: 100px;
     }
@@ -89,7 +92,39 @@
 
 @media(max-width: 1024px){
     .hero{
-        height: 70vh;
+        height: 100vh;
+    }
+    .hero-left{
+        padding-left: 80px;
+    }
+    .hero-left h2{
+        font-size: 25px;
+    }
+    .hero-left p{
+        font-size: 60px;
+    }
+    .hero-hand-icon img{
+        width: 65px;
+    }
+    .hero-latest-btn{
+        width: 220px;
+        height: 50px;
+        font-size: 20px;
+    }
+    .hero-right img{
+        width: 400px;
+    }
+}
+
+@media(max-width: 900px){
+    .hero{
+        height: 60vh;
+    }
+}
+
+@media(max-width: 800px){
+    .hero{
+        height: 60vh;
     }
     .hero-left{
         padding-left: 80px;
@@ -101,38 +136,12 @@
         font-size: 50px;
     }
     .hero-hand-icon img{
-        width: 65px;
-    }
-    .hero-latest-btn{
-        width: 220px;
-        height: 50px;
-        font-size: 16px;
-    }
-    .hero-right img{
-        width: 400px;
-    }
-}
-
-@media(max-width: 800px){
-    .hero{
-        height: 70vh;
-    }
-    .hero-left{
-        padding-left: 30px;
-    }
-    .hero-left h2{
-        font-size: 16px;
-    }
-    .hero-left p{
-        font-size: 40px;
-    }
-    .hero-hand-icon img{
         width: 50px;
     }
     .hero-latest-btn{
         width: 175px;
         height: 40px;
-        font-size: 13px;
+        font-size: 15px;
     }
     .hero-right img{
         width: 300px;
@@ -147,6 +156,9 @@
     }
     .hero-right{
         display: none;
+    }
+    .hero-left{
+        padding-left: 17px;
     }
     .hero-left h2{
         font-size: 18px;
@@ -163,7 +175,6 @@
         font-size: 14px;
     }
 }
-
 
 
 
